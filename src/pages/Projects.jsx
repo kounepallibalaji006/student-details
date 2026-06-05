@@ -33,7 +33,7 @@ const projectsData = [
     description: 'A modern, responsive portfolio website built with React and Framer Motion to showcase my skills and projects.',
     image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
     tech: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion'],
-    github: '#',
+    github: 'https://github.com/kounepallibalaji006/student-details',
     demo: '#'
   }
 ];
