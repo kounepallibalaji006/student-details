@@ -8,7 +8,7 @@ import healthManagement from "../assets/health management.jpeg";
 
 const certifications = [
   {
-    title: 'Health Management',
+    title: 'Health Management system',
     issuer: 'Health Management Program',
     date: '2025',
     description:
